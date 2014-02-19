@@ -1,4 +1,4 @@
 githubchina.github.com
 ======================
 
-主页
+主页搜索
